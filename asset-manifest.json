@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frontend-challenge/static/css/main.c74d2576.chunk.css",
+    "main.js": "/frontend-challenge/static/js/main.f5e1666a.chunk.js",
+    "main.js.map": "/frontend-challenge/static/js/main.f5e1666a.chunk.js.map",
+    "runtime-main.js": "/frontend-challenge/static/js/runtime-main.271bfdb2.js",
+    "runtime-main.js.map": "/frontend-challenge/static/js/runtime-main.271bfdb2.js.map",
+    "static/js/2.b6e5fff5.chunk.js": "/frontend-challenge/static/js/2.b6e5fff5.chunk.js",
+    "static/js/2.b6e5fff5.chunk.js.map": "/frontend-challenge/static/js/2.b6e5fff5.chunk.js.map",
+    "index.html": "/frontend-challenge/index.html",
+    "static/css/main.c74d2576.chunk.css.map": "/frontend-challenge/static/css/main.c74d2576.chunk.css.map",
+    "static/js/2.b6e5fff5.chunk.js.LICENSE.txt": "/frontend-challenge/static/js/2.b6e5fff5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/frontend-challenge/static/media/Roboto-Regular.03523cf5.ttf",
+    "static/media/clickedheart.38e93f16.svg": "/frontend-challenge/static/media/clickedheart.38e93f16.svg",
+    "static/media/hoveredheart.66d5a258.svg": "/frontend-challenge/static/media/hoveredheart.66d5a258.svg",
+    "static/media/skeletonheart.f7d0fb0a.svg": "/frontend-challenge/static/media/skeletonheart.f7d0fb0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.271bfdb2.js",
+    "static/js/2.b6e5fff5.chunk.js",
+    "static/css/main.c74d2576.chunk.css",
+    "static/js/main.f5e1666a.chunk.js"
+  ]
+}
